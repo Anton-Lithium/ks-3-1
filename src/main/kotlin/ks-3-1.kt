@@ -4,7 +4,9 @@ package org.example
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
     val name = "Kotlin"
-    val timesDay = "Добрый день"
+    var timesDay = "Добрый день"
+    println("$name $timesDay!")
+    timesDay = "Добрый вечер"
     println("$name $timesDay!")
 
 }
