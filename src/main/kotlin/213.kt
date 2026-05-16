@@ -6,4 +6,5 @@ fun main() {
     val name = "Kotlin"
     val timesDay = "Добрый день"
     println("$name $timesDay!")
+
 }
