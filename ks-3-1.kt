@@ -5,5 +5,5 @@ fun main() {
     println("$name $timesDay!")
     timesDay = "Добрый вечер"
     println("$name $timesDay!")
-
+//rjvvtyn
 }
