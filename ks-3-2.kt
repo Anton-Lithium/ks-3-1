@@ -7,4 +7,5 @@ fun main() {
     userSurname = "Сидорова"
     UserAge = 22
     println("$userSurname $userName $userPatronymic, $userAge")
+
 }
