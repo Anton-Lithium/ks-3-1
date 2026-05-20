@@ -3,9 +3,8 @@ fun main() {
     val userPatronymic = "Сергеевна"
     var userSurname = "Андреева"
     var userAge = 20
-    println("$userSurname $userName $userPatronymic, $userAge")
+    println("[$userSurname $userName $userPatronymic, $userAge]")
     userSurname = "Сидорова"
-    UserAge = 22
-    println("$userSurname $userName $userPatronymic, $userAge")
-
+    userAge = 22
+    println("[$userSurname $userName $userPatronymic, $userAge]")
 }
