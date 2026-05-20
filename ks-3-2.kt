@@ -1,9 +1,10 @@
-fun main{
+fun main() {
     val userName = "Татьяна"
-    val userPatronymic = "Сергеева"
+    val userPatronymic = "Сергеевна"
     var userSurname = "Андреева"
     var userAge = 20
     println("$userSurname $userName $userPatronymic, $userAge")
     userSurname = "Сидорова"
-    println("$userSurname $userName $userPatronymic, ($userAge + 2)")
+    UserAge = 22
+    println("$userSurname $userName $userPatronymic, $userAge")
 }
